@@ -7,9 +7,11 @@ Each project has its own folder with code, datasets (if small), and instructions
 - [Time Series Forecasting](./Time-Series-Forecasting)  
   Forecasting using ARIMA, SARIMA, SARIMAX, Prophet, and LSTM models.
 
--EDA(Exploratory Data Analysis)
-  Titanic EDA , COVID-19 EDA , Airbnb EDA
-  
+- **Exploratory Data Analysis (EDA)**  
+  - Titanic EDA  
+  - COVID-19 EDA  
+  - Airbnb EDA  
+
 *(More projects will be added soon...)*
 
 ## 🛠️ Technologies Used
@@ -17,7 +19,7 @@ Each project has its own folder with code, datasets (if small), and instructions
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - Scikit-learn  
-- TensorFlow / Keras (for deep learning-based projects)  
+- TensorFlow / Keras (for LSTM-based forecasting)  
 - Statsmodels, fbprophet (for time series forecasting)
 
 ## 🚀 How to Use
